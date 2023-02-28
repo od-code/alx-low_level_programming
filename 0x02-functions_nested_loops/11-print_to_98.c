@@ -15,7 +15,7 @@ void print_to_98(int a)
 	{
 		for (b = a; b <= 98; b++)
 		{
-			printf("%d, ", b);
+			printf("%d", b);
 			if (b != 98)
 				printf(", ");
 		}
@@ -25,7 +25,7 @@ void print_to_98(int a)
 	{
 		for (b = a; b <= 98; b++)
 		{
-			printf("%d, ", b);
+			printf("%d", b);
 			if (b != 98)
                                 printf(", ");
 		}
@@ -35,7 +35,7 @@ void print_to_98(int a)
 	{
 		for (b = a; b >= 98; b--)
 		{
-			printf("%d, ", b);
+			printf("%d", b);
 			if (b != 98)
                                 printf(", ");
 		}
