@@ -42,5 +42,5 @@ void print_to_98(int a)
 		printf("\n");
 	}
 	else if (a == 98)
-		printf("%d, ", a);
+		printf("%d", a);
 }
