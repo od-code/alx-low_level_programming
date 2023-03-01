@@ -11,7 +11,7 @@ void times_table(void)
 
 	for (a = 0; a <= 0; a++)
 	{
-		for (b = 0; y <= 0; b++)
+		for (b = 0; b <= 0; b++)
 		{
 			c = a * b;
 			if (c > 0)
@@ -34,6 +34,6 @@ void times_table(void)
 				_putchar(z + '0');
 			}
 		}
-		-putchar('\n');
+		_putchar('\n');
 	}
 }
