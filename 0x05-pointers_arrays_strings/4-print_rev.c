@@ -3,10 +3,10 @@
 /**
  * print_rev -  print string in reverse
  *
- * @str: string to be reversed
+ * @s: string to be reversed
  */
 
-void print_rev(char *str)
+void print_rev(char *s)
 {
 	int a, b;
 
