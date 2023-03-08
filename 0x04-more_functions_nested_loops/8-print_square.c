@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * print_square - prints character " \ "
+ *
+ * @size: the number of times to be printed
+ */
+
 void print_square(int size)
 {
 	int a, b;
