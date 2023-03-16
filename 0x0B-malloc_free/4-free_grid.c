@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- * free_grid - frees 2d grid 
+ * free_grid - frees 2d grid
  *
  * @grid: 2d grid
  *
